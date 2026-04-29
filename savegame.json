@@ -1,0 +1,41 @@
+{
+	"autoclickers": 0.0,
+	"coins": 18.0,
+	"coins_earned": 18.0,
+	"drooper_cooldown": 0.0,
+	"droopers": {
+
+	},
+	"enemies": {
+
+	},
+	"enemies_killed": 18.0,
+	"enemy_multiplier": 1.0,
+	"enemy_name": "Normal",
+	"first_time": false,
+	"global_settings": {
+		"language": "en",
+		"skipDisclaimer": false
+	},
+	"income": 0,
+	"settings": {
+		"blur_bg": true,
+		"coin_particles": 100,
+		"dropdown_selection": {
+			"coin_particles": 1,
+			"language": 1
+		},
+		"enemy_animations": true,
+		"musicvolume": 0.5,
+		"soundvolume": 1.0,
+		"ui_animations": true
+	},
+	"total_droopers": 0,
+	"total_playtime_seconds": 3.0,
+	"upgrades": {
+		"autoclicker": 1,
+		"drooper_cooldown": 1,
+		"enemy_multiplier": 1
+	},
+	"version": 1
+}
